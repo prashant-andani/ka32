@@ -2,7 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      name: 'Naveen Andani',
+      fatherName: 'Subhash',
+      mobile: '7795885554',
+      className: '10th',
+      orgName: '',
+      photoURL: "https://picsum.photos/600/600?random=1",
+      logoURL: '',
     }
   ],
   "profile": {
